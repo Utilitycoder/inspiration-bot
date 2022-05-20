@@ -565,4 +565,44 @@ export const QuoteList: Quote[] = [
     text: "Education is not the filling of a pail, but the lighting of a fire.",
     author: "William Butler Yeats",
   },
+  {
+    text: "Justice is truth in action.",
+    author: "Benjamin Disraeli",
+  },
+  {
+    text: "A new broom sweeps clean but an old broom knows the corners.",
+    author: "Virgin Islander "
+  },
+  {
+    text: "He who has a why to live can bear almost any how.",
+    author: "Friedrich Nietzsche"
+  },
+  {
+    text: "Lost time is never found again.",
+    author: "Benjamin Franklin"
+  },
+  {
+    text: "The wise understand by themselves; fools follow the reports of others.",
+    author:"Tibetan"
+  },
+  {
+    text: "When our imperfect judgments are aggregated in the right way, our collective intelligence is often excellent.",
+    author:"James Surowiecki"
+  },
+  {
+    text: "The goal of human nature, of any nature is blessedness. If we do not reach this goal, it is a sign that we are headed in the wrong direction.",
+    author:"Raimon Pannikar"
+  },
+  {
+    text: "To know how to grow old is the master work of wisdom, and one of the most difficult chapters in the great art of living.",
+    author:"Henri Frederic Amiel"
+  },
+  {
+    text: "When you say one thing, the clever person understands three.",
+    author:"Chinese "
+  },
+  {
+    text: "The only thing we can know is that we know nothing and that is the highest flight of human wisdom.",
+    author:"Leo Tolstoy"
+  },
 ];
